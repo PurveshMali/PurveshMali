@@ -1,42 +1,198 @@
-# 💫 Hii, my name is Purvesh!👋
-🔭 I’m an Engineering Student at PES Modern College of Engineering.<br>🌱 I’m currently learning MERN-STACK and GenAI.<br>👯 I’m looking to collaborate on creative design projects, open-source contributions, and coding initiatives that make a difference.<br>🤔 I’m looking for help with GenAI and Web-3 <br>💬 Ask me about UI/UX design, full-stack development, or how to make your projects stand out.<br>📫 How to reach me: Gmail - purveshmali99@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I once turned a boring hackathon topic into an award-winning project with just caffeine and creativity!😉
 
-#
-[![](https://visitcount.itsvg.in/api?id=PurveshMali&icon=3&color=6)](https://visitcount.itsvg.in)
----
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"  />
-
-###
-<div align="left">
-  <a href="mali_purvesh_09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="purveshmali99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/purvesh-mali/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<!-- ================= HERO SECTION ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Hi%20there,%20I'm%20Purvesh%20Mali%20👋&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=twinkling&color=0:000000,100:ff7a18" width="100%" />
 </div>
 
-###
+<div align="center">
 
-<br clear="both">
+### 🎯 AI & Data Science Engineer | Full-Stack Developer | UI/UX Thinker
 
-###
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FF7A18&center=true&vCenter=true&multiline=true&width=750&height=140&lines=Engineering+Student+in+AI+%26+Data+Science;Full+Stack+Developer+(React+%2B+Node);UI%2FUX+Designer+with+Product+Mindset;Building+Practical%2C+Real-World+Software" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const purveshMali = {
+  location: "Pune, Maharashtra, India",
+  education: "BE in Artificial Intelligence & Data Science",
+  roles: ["Full Stack Developer", "UI/UX Designer"],
+  
+  mindset: [
+    "Build for real users",
+    "Design before code",
+    "Clarity over complexity"
+  ],
+
+  currentFocus: [
+    "React + Node.js + MongoDB",
+    "AI-powered insights in web apps",
+    "Product-grade UI/UX systems",
+    "Hackathons & open-source"
+  ],
+
+  strengths: {
+    programming: ["C", "C++", "Java", "Python", "JavaScript"],
+    frontend: ["React", "Tailwind CSS", "GSAP"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB"],
+    design: ["Figma", "Design Systems", "UX Flows"]
+  }
+};
+```
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-ff7a18?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff7a18?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-ff7a18?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=white)
+
+### ⚙️ Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-ff7a18?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-ff7a18?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff7a18?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### EduConnect  
+**Learning & Earning Platform**
+
+- Seamless learner ↔ educator role switching  
+- Single-dashboard architecture  
+- Focused on usability & scalability  
+
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Air Quality & Energy Mix  
+**Data Analytics & ML Project**
+
+- Real environmental datasets  
+- Correlation & predictive insights  
+- Policy-impact oriented  
+
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Daily Wage Worker Job Matching  
+**AI-Powered Job Platform**
+
+- ML-based matching logic  
+- Built for social impact  
+- End-to-end system design  
+
+</td>
+<td width="50%">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PurveshMali&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PurveshMali&hide_border=true&theme=github-dark" />
+</div>
 
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PurveshMali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PurveshMali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurveshMali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+## 🧠 LeetCode & Problem Solving
 
+<div align="center">
+
+### 💻 Primary Focus: Data Structures & Algorithms
+
+<img src="https://leetcard.jacoblin.cool/PurveshMali?theme=dark&font=Fira%20Code&ext=activity&border=0" />
+
+</div>
+
+<div align="center">
+
+| Metric | Details |
+|------|--------|
+| 🧩 **Core Language** | Java |
+| 📈 **Focus Areas** | Arrays • Strings • Stack • Trees • Graphs |
+| ⚙️ **Approach** | Optimal solutions with clean logic |
+| 🚀 **Goal** | Strong DSA foundation for real-world systems |
+
+</div>
+
+> *Problem solving for me is not about counts — it’s about thinking clearly under constraints.*
+<br>
+
+## 🌱 Currently Exploring
+
+- Advanced full-stack patterns  
+- AI-powered insights for dashboards  
+- Open-source collaboration  
+- Product-focused UI/UX systems  
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff7a18?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purvesh-mali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-rho-orcin-17.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ff7a18?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purveshmali99@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff7a18,100:000000" width="100%" />
+
+  💡 *“Good software is built twice — once in the mind, once in code.”*  
+  <br/>
+  **— Purvesh Mali**
+</div>
